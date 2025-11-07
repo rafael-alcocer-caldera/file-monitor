@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preferences SYSTEM 'http://java.sun.com/dtd/preferences.dtd'>
+<preferences EXTERNAL_XML_VERSION="1.0">
+	<root type="user">
+		<map />
+		<node name="rafael">
+			<map />
+			<node name="alcocer">
+				<map />
+				<node name="caldera">
+				    <map />
+				    <node name="util">
+					    <map>
+						    <!-- CONFIG -->
+						    <entry key="TIMER" value="500" />
+					    </map>
+			        </node>
+				</node>
+			</node>
+		</node>
+	</root>
+</preferences>
